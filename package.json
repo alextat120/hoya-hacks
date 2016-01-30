@@ -10,10 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/alextat120/hoya-hacks.git"
   },
-  "author": "",
+  "author": "alextat120",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/alextat120/hoya-hacks/issues"
   },
-  "homepage": "https://github.com/alextat120/hoya-hacks#readme"
+  "homepage": "https://github.com/alextat120/hoya-hacks#readme",
+  "dependencies": {
+    "pastec": "^0.0.5"
+  }
 }
