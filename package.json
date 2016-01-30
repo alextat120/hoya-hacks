@@ -1,0 +1,19 @@
+{
+  "name": "hoya-hacks",
+  "version": "1.0.0",
+  "description": "Image recognition of currency to aid visually impaired.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alextat120/hoya-hacks.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alextat120/hoya-hacks/issues"
+  },
+  "homepage": "https://github.com/alextat120/hoya-hacks#readme"
+}
